@@ -6,7 +6,7 @@ Project data cleansing menggunakan **SQL di Google BigQuery** untuk membersihkan
 
 ## Latar Belakang & Tujuan
 
-Dataset mentah sering kali memiliki berbagai masalah kualitas data yang perlu dibersihkan sebelum bisa dianalisis. Untuk mengasah kemampuan data cleansing, saya membuat dataset dummy jadwal kereta api yang sengaja kotor menggunakan AI - Claude, lalu membersihkannya menggunakan SQL di BigQuery.
+Dataset mentah sering kali memiliki berbagai masalah kualitas data yang perlu dibersihkan sebelum bisa dianalisis. Untuk mengasah kemampuan data cleansing, saya membuat dataset dummy jadwal kereta api yang sengaja kotor menggunakan Claude AI, lalu membersihkannya menggunakan SQL di BigQuery.
 
 Tujuan project ini:
 - Mengidentifikasi berbagai masalah kualitas data pada dataset mentah

@@ -40,11 +40,11 @@ Tujuan project ini:
 
 ## Proses Cleansing yang Dilakukan
 
-1. **Standarisasi teks** — menyeragamkan huruf besar/kecil pada `id_jadwal`, `kelas`, dan `status`
-2. **Trimming** — menghapus spasi berlebih pada kolom teks seperti `nama_kereta` dan `kelas`
-3. **Parsing tanggal & jam** — menyeragamkan berbagai format tanggal dan jam ke satu format standar (`YYYY-MM-DD` dan `HH:MM:SS`)
-4. **Pembersihan nilai numerik** — menghapus karakter non-angka (`Rp`, titik ribuan) pada kolom `harga_tiket`
-5. **Set tipe data** — Mengubah tipe data menjadi sesuai dengan isi data semestinya menggunakan `CAST`
+1. **Standarisasi teks** - menyeragamkan huruf besar/kecil pada `id_jadwal`, `kelas`, dan `status`
+2. **Trimming** - menghapus spasi berlebih pada kolom teks seperti `nama_kereta` dan `kelas`
+3. **Parsing tanggal & jam** - menyeragamkan berbagai format tanggal dan jam ke satu format standar (`YYYY-MM-DD` dan `HH:MM:SS`)
+4. **Pembersihan nilai numerik** - menghapus karakter non-angka (`Rp`, titik ribuan) pada kolom `harga_tiket`
+5. **Set tipe data** - Mengubah tipe data menjadi sesuai dengan isi data semestinya menggunakan `CAST`
 
 ---
 
